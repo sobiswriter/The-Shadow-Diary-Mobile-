@@ -5,7 +5,6 @@ Concept: A journaling application that utilizes Generative AI to act as a Jungia
 The Front Page: The user opens a skeuomorphic, worn black leather notebook. They type their entry. The font is clean (e.g., Crimson Text).
 
 The Trigger: No "Submit" button. The user swipes left to "turn the page."
-
 The Back Page: The page turns. The paper texture is darker, grittier. The text appears letter-by-letter, simulating handwriting speed. This is The Shadow's response.
 
 2. AI Persona & Logic ("The Clinician")

@@ -1,0 +1,27 @@
+# Project .gitignore for `TheShadow` subproject
+
+# Node
+node_modules/
+
+# Build
+build/
+dist/
+
+# React Native
+android/
+ios/
+
+# Env
+.env
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local files
+local.properties
+
